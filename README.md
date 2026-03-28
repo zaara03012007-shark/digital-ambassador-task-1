@@ -3,8 +3,7 @@
 
 ## 🎨 Task 1: Digital Literacy Awareness Infographic
 
-### 🖼️ Project Visual
-![Digital Literacy Infographic](task_1.png)
+## Photographic visual(task_1.png)
 
 ### ✍️ Project Report
 For this initial task, I designed a comprehensive infographic focused on **Digital Literacy Awareness**. The goal was to create a visually engaging and easy-to-understand resource for my peers to navigate the digital world safely and effectively.
