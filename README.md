@@ -3,37 +3,41 @@
 
 ## 🎨 Task 1: Digital Literacy Awareness Infographic
 
-### ✍️ Project Report
-For this initial task, I designed a comprehensive infographic focused on **Digital Literacy Awareness**. The goal was to create a visually engaging and easy-to-understand resource for my peers to navigate the digital world safely and effectively.
+### 🖼️ Project Visual
+![Digital Literacy Infographic](./task-1-presentation/task_1.png)
 
-**Key Topics Covered:**
-* **Online Safety:** How to identify phishing and secure personal data.
-* **Digital Etiquette:** Proper "Netiquette" for professional communication.
-* **Digital Footprint:** Understanding the long-term impact of our online actions.
-* **Information Literacy:** Fact-checking and identifying credible online sources.
+### ✍️ Task 1 Project Report 
+**Tools and Design Process:**
+For this initial task, I utilized **Canva**, a professional graphic design platform, to create a high-impact infographic focused on Digital Literacy Awareness. My design is structured to guide the viewer through four critical pillars of the modern digital landscape: **Online Safety, Netiquette, Information Literacy,** and the long-term management of one’s **Digital Footprint**. I deliberately chose a clean, modern color palette and intuitive icons to ensure that the information remains accessible and engaging for my peers, avoiding the use of overwhelming technical jargon while maintaining professional standards.
 
-**Tools Used:**
-I utilized **Canva** to design the infographic, ensuring it met professional design standards while remaining accessible to a student audience. This task allowed me to practice translating complex digital concepts into clear, actionable advice—a core responsibility of a **Student Digital Ambassador**.
+**Interesting Findings and Challenges:**
+What I found most interesting while researching this topic was the depth of the "Digital Footprint" concept. I initially viewed it as just active social media posts, but I discovered how passive data, such as cookies and search history, forms a permanent record that can impact future career opportunities. The most difficult part of the process was **information synthesis**—the challenge of condensing complex cybersecurity concepts into short, actionable "pro-tips" that fit within a single visual frame. This exercise taught me the importance of visual storytelling, a skill that is vital for a Digital Ambassador to effectively communicate safety protocols to a diverse student audience.
+
 
 ---
 
 ## 🎨 Task 2: Professional Online Presence & Personal Branding
 
-### 🌐 Profile Links
+### 🌐 My Professional Profiles
 * **LinkedIn:** [My Professional Profile](www.linkedin.com/in/zaara-parween-84a8b5372)
 * **Kaggle:** [My Data Science Portfolio](https://www.kaggle.com/zaaraparween)
 * **GitHub:** [My Coding Repository](https://github.com/zaara03012007-shark)
 
 ### 📸 Portfolio Screenshots
-![GitHub Profile](task-2-portfolio/image_7f04bf.jpg)
-![LinkedIn Profile](task-2-portfolio/linkedin_screenshot.png)
-![Kaggle Profile](task-2-portfolio/kaggle_screenshot.png)
+![GitHub Profile](./task-2-portfolio/github_profile.png)
+![LinkedIn Profile](./task-2-portfolio/linkedin_profile.png)
+![Kaggle Profile](./task-2-portfolio/kaggle_profile.png)
 
-### ✍️ Task 2 Project Report
-For this task, I focused on building a cohesive professional brand across major technical and networking platforms. I optimized my **LinkedIn** profile with a custom banner and professional summary to connect with industry leaders. I also established a **Kaggle** account to engage with the data science community and organized this **GitHub** repository to showcase my technical projects. This "digital footprint" is essential for my career as a Student Digital Ambassador, as it demonstrates my ability to maintain a professional and influential online presence.
+### ✍️ Task 2 Project Report 
+**Platforms Selected and Their Purpose:**
+For this task, I established a professional presence on three industry-standard platforms: **LinkedIn, GitHub, and Kaggle**. LinkedIn serves as my primary networking hub, allowing me to connect with industry experts and showcase my academic milestones. GitHub is my technical home, where I manage version control for my software projects and contribute to open-source communities. Finally, I chose Kaggle to engage with the data science community, as it provides access to diverse datasets and competitive machine learning challenges that are essential for a B.Tech CSE student.
+
+**Future Four-Year Plan:**
+Over the next four years, I plan to use these platforms as a living record of my growth. On **LinkedIn**, I will post monthly updates on my certifications and internship experiences to build a personal brand that attracts top-tier recruiters. On **GitHub**, I aim to maintain a daily "contribution streak," documenting every major project from my coursework to show my coding consistency. On **Kaggle**, I will participate in annual competitions to sharpen my analytical skills. Collectively, these platforms will ensure that by the time I reach my final year, I have a verifiable, data-driven portfolio that proves my technical readiness to the global tech industry.
+
+---
 
 
-----
 
 ## 🚀 Task 3: Explore Coding & Collaboration Platforms
 
