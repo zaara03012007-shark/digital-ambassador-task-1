@@ -48,7 +48,7 @@ For this task, I focused on building a cohesive professional brand across major 
 ![Google Form Editor](task-3-platforms/image_8b4e42.png)
 ![Linked Google Sheet](task-3-platforms/image_8b4e9d.png)
 
-### ✍️ Project Report (Requirement #15)
+### ✍️ Project Report 
 For this task, I explored two critical categories of digital tools: coding practice platforms and cloud collaboration suites. 
 
 **What I Built and Practised:**
@@ -71,7 +71,7 @@ This situation could have been avoided by practicing better email etiquette and 
 ---
 
 
-##🛡️ Task 5: Cybercrime Awareness & Prevention
+🛡️ Task 5: Cybercrime Awareness & Prevention
 
 What surprised me most:
 While researching UPI fraud, I was surprised to learn how scammers exploit the psychological "rush" of receiving money to make victims ignore basic security logic. The fact that a QR code is technically a "Request for Money" and not a "Payment Voucher" is something many users—including tech-savvy students—often misunderstand. It highlighted that the weakest link in cybersecurity is often human psychology, not just software bugs.
