@@ -1,3 +1,23 @@
+# 🛡️ Student Digital Ambassador Portfolio
+
+Name: Zaara Parween
+Registration No.: 25BAI11371
+Branch: B.Tech Computer Science and Engineering
+Year: 1st Year
+Course Code: CSE0001
+Date: March 28, 2026
+
+---
+
+## 📖 Project Introduction
+**Overview of the Project and Scenario:**
+This comprehensive portfolio documents my journey through the **Student Digital Ambassador** program. In an era where digital presence and technical proficiency are paramount, this project serves as a structured framework to validate my skills in cybersecurity awareness, cloud collaboration, and professional branding. The scenario revolves around my role as a Digital Ambassador—a technical leader tasked with bridging the gap between complex digital tools and student accessibility. 
+
+Throughout this project, I have simulated real-world scenarios, from designing educational infographics on digital literacy to practicing competitive programming on platforms like HackerRank. I have also focused on the "human" element of technology by drafting professional communication guides and researching the psychological triggers behind modern cybercrimes like UPI fraud. This repository is not merely a collection of tasks; it is a demonstration of my readiness to contribute to the digital-first academic and professional landscape.
+
+---
+
+
 # Student Digital Ambassador 
 
 
