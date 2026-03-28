@@ -1,21 +1,22 @@
-# Student Digital Ambassador - Task 1
-
-## 📄 Project Report
-For this assignment, I utilized **Canva** to design a comprehensive one-page infographic titled "Empowering Your Digital Journey." My design specifically focuses on three core pillars of digital literacy: defining digital literacy as a foundational critical thinking skill, implementing safe internet practices such as two-factor authentication, and maintaining professional email etiquette for academic and professional success.
-
-The infographic utilizes a clean, professional color palette combined with intuitive icons to ensure the information is scannable and accessible for my fellow batchmates. I organized the layout into distinct, logical sections to guide the viewer from basic definitions toward practical, everyday digital habits.
-
-One thing I found particularly **interesting** during this creation process was the challenge of "information distillation." It was difficult to take broad, complex concepts like internet safety and condense them into three actionable points without losing their importance or impact. Balancing visual white space with informative text was a rewarding design challenge that helped me better understand how to communicate technical concepts clearly as a Student Digital Ambassador.
-
----
-
-## 🛠️ How to View the Project
-1. Open the file `task_1.png` in this repository to view the full design.
-2. This project is a static visual resource; no specific environment setup or dependencies are required for execution.
+# Student Digital Ambassador 
 
 
----
+## 🎨 Task 1: Digital Literacy Awareness Infographic
 
+### 🖼️ Project Visual
+![Digital Literacy Infographic](task_1.png)
+
+### ✍️ Project Report
+For this initial task, I designed a comprehensive infographic focused on **Digital Literacy Awareness**. The goal was to create a visually engaging and easy-to-understand resource for my peers to navigate the digital world safely and effectively.
+
+**Key Topics Covered:**
+* **Online Safety:** How to identify phishing and secure personal data.
+* **Digital Etiquette:** Proper "Netiquette" for professional communication.
+* **Digital Footprint:** Understanding the long-term impact of our online actions.
+* **Information Literacy:** Fact-checking and identifying credible online sources.
+
+**Tools Used:**
+I utilized **Canva** to design the infographic, ensuring it met professional design standards while remaining accessible to a student audience. This task allowed me to practice translating complex digital concepts into clear, actionable advice—a core responsibility of a **Student Digital Ambassador**.
 
 ---
 
